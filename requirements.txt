@@ -3,6 +3,4 @@ sklearn
 pandas
 numpy
 matplotlib
-seaborn
-pickle
-scikit-learn
+gunicorn
